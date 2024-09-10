@@ -1,4 +1,4 @@
-# CRUD Operations with MongoDB, Node.js, and Mongoose
+# CRUD Operations with Node.js, Express.js, and Mongoose
 
 This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using MongoDB with Mongoose in a Node.js application. The application uses Express.js to define endpoints for interacting with the MongoDB database.
 
